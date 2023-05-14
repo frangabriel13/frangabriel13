@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Franco</h1>
 <h3 align="center">Un apasionado Full Stack Developer de Argentina</h3>
-
+<p>Desde chico, siempre estuve fascinado por la computación y la internet. Pero fue cuando descubrí mi pasión por la programación que supe que había encontrado mi verdadera vocación. Desde entonces, paso innumerables horas resolviendo problemas de lógica, estudiando nuevas tecnologías y creando proyectos para mejorar mis habilidades.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fran_gm13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fran_gm13" height="30" width="40" /></a>
