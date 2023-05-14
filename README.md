@@ -1,6 +1,29 @@
 <h1 align="center">Hola 👋, Soy Franco</h1>
 <h3 align="center">Un apasionado Full Stack Developer de Argentina</h3>
 <p>Desde mi infancia, siempre sentí fascinación por la tecnología y el mundo de la informática. Cuando pasaba por momentos difíciles y la dificultad de no encontrar un rumbo claro en mi vida, descubrí en la programación mi verdadera vocación, esa luz al final del túnel que me motivó a seguir adelante. Desde entonces, dedico incontables horas a resolver problemas de lógica, aprender nuevas tecnologías y crear proyectos que me permiten mejorar mis habilidades. La programación me ha dado un propósito y me ha enseñado que con perseverancia y dedicación, cualquier obstáculo puede ser superado.</p>
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular"],
+         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"],
+         csharp: ["Asp.net Core"],
+         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+      mobile: ["Android", "IOS"]
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
+```
+</br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fran_gm13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fran_gm13" height="30" width="40" /></a>
